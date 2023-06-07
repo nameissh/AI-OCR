@@ -1,3 +1,6 @@
+# Google Cloud Vision API
+# text
+
 import io
 import os
 

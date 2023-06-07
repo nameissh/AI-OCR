@@ -1,3 +1,6 @@
+# Google Cloud Vision API
+# text + image
+
 import io
 import os
 import numpy as np
